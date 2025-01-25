@@ -18,10 +18,9 @@
 ### Sobre mí
 
 - 👨🏻‍💻 Técnico Superior en Administración de Sistemas Informáticos en Red (2022-2024) - IES Gonzalo Nazareno
-- 👨🏻‍💻 Técnico en Sistemas microinformáticos y redes (2020-2024) - IES Gonzalo Nazareno    
+- 👨🏻‍💻 Técnico en Sistemas microinformáticos y redes (2020-2022) - IES Gonzalo Nazareno    
 - 💡 Apasionado de la tecnología desde pequeño, siempre en constante aprendizaje.  
 - 🌐 Actualmente estoy desarrollando una página web para compartir lo que aprendo.  
-- 🎯 Mi objetivo profesional es especializarme en ciberseguridad.  
 
 ---
 
